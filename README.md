@@ -13,3 +13,5 @@ How the code can be reused:
   3. In some questions will be gname (write the name of group u want to analyse), or other variables that helps make your analysis more flexible
   4. Question 8: u can change stopwords and regex to find more specify words
   5. Questions 13, 14: stopword from q8 also have impact on them
+
+Арк, го доту? 👉👈
